@@ -1,4 +1,4 @@
-The rep_ytf_config.mat file contains the following MATLAB variables.
+## The rep_ytf_config.mat file contains the following MATLAB variables.
 
 -videoList:
 	3425x1 cell array containing all the 3425 face video filenames of the YTF database. Note that only filenames are contained, without directories or full paths. Note also that the following variables are all based on the order of this video list. Therefore the extracted features must exactly follow the order of this list.
