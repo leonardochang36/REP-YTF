@@ -1,6 +1,6 @@
 # REP-YTF
 
-## Evaluation toolkit for the REP-YTF protocols_
+## Evaluation toolkit for the REP-YouTube Faces protocols
 
 This MATLAB package provides an evaluation toolkit for the REP-YTF protocols introduced in our CVPR 2018 paper Toward More Realistic Face Recognition Evaluation Protocols for the YouTube Faces Database. REP-YTF includes face verification and open/closed-set face identification at different FARs. Also, video-to-video and video-to-image scenarios with different openness values are considered on the face identification evaluations. The YouTube Faces (YTF) database [1] is the main benchmark database in this package. 
 
