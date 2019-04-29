@@ -6,7 +6,7 @@ This MATLAB package provides an evaluation toolkit for the REP-YTF protocols int
 
 ## You can find our paper in:
 
-[Toward More Realistic Face Recognition Evaluation Protocols for the YouTube Faces Database link](https://github.com/leonardochang36/REP-YTF/paper/Toward_More_Realistic_CVPR_2018_paper.pdf)
+[Toward More Realistic Face Recognition Evaluation Protocols for the YouTube Faces Database](https://github.com/leonardochang36/REP-YTF/blob/master/paper/Toward_More_Realistic_CVPR_2018_paper.pdf)
 
 ## The package contains the following components.
 
