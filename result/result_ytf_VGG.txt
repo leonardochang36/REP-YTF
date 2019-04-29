@@ -1,0 +1,18 @@
+Verification:
+	@ FAR = 0.1%: VR = 39.46% STD = 1.11%.
+Open-set Identification on video-to-video scenario
+	@ Op = 0.2, Rank = 1, FAR = 1%: DIR = 17.78%, STD = 2.48%.
+	@ Op = 0.5, Rank = 1, FAR = 1%: DIR = 13.36%, STD = 2.48%.
+	@ Op = 0.9, Rank = 1, FAR = 1%: DIR = 12.31%, STD = 2.48%.
+Closed-set Identification on video-to-video scenario
+	@ Op = 0.2, Rank = 1, IR = 61.04%, STD = 3.03%.
+	@ Op = 0.5, Rank = 1, IR = 55.23%, STD = 3.03%.
+	@ Op = 0.9, Rank = 1, IR = 53.50%, STD = 3.03%.
+Open-set Identification on video-to-image scenario
+	@ Op = 0.2, Rank = 1, FAR = 1%: DIR = 14.00%, STD = 2.76%
+	@ Op = 0.5, Rank = 1, FAR = 1%: DIR = 10.40%, STD = 0.95%
+	@ Op = 0.9, Rank = 1, FAR = 1%: DIR = 9.57%, STD = 1.49%
+Closed-set Identification on video-to-image scenario
+	@ Op = 0.2, Rank = 1, IR = 55.75%, STD = 3.03%.
+	@ Op = 0.5, Rank = 1, IR = 49.62%, STD = 1.54%.
+	@ Op = 0.9, Rank = 1, IR = 47.85%, STD = 1.40%.
